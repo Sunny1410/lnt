@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7C30-499F
+
+ Directory of C:\Users\vshadmin\Desktop\hello
+
+01-12-2018  13:11    <DIR>          .
+01-12-2018  13:11    <DIR>          ..
+01-12-2018  13:11                 0 data.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  204,700,778,496 bytes free
